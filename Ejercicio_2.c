@@ -21,7 +21,7 @@ int promedioFuncion(){
 }
 
 int main() {
-	float numing[5];
+	float numing[5];//¿Para que se utiliza el vector?
 	float prom = 0;
 	promedioFuncion();
 	return 0;

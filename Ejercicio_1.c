@@ -17,6 +17,6 @@ int guardarResistenciasYSumar (){
 }
 int main(){
     int suma = guardarResistenciasYSumar();
-    int resistenciaTotal[5];
+    int resistenciaTotal[5];//¿Para qu se utiliza el vector?
     printf("La resistencia total es: %d",suma);
 }

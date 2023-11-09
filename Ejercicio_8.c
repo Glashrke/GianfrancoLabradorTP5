@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Se debe ingresar un valor para poder mostrar la secuencia.
 int main() {
     int n = 10;
     int a = 1, b = 1, c;

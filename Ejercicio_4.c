@@ -18,7 +18,7 @@ int main(){
 	int totalAlumnos = 30;
 	float notas[totalAlumnos];
 	float suma = 0;
-	float prome;
+	float prome;//Variable no utilizada.
 	float promedio = promeGeneral();
 	printf("El promedio general del curso es de: %.2f",promedio);
 	return 0;

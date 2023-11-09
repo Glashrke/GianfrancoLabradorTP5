@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//No se utilizan funciones.
 int main() {
     int totalVendedores = 20;
     int totUnidades[20], suma = 0;
